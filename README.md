@@ -1,5 +1,5 @@
 # World Bank Data Task
-This is a semi-regularly updated list of tasks on the World Bank data team's TODO list. Interested in working on them? Apply for a position here: [http://bit.ly/WorldBankData-DataJobs](http://bit.ly/WorldBankData-DataJobs)  
+This is a semi-regularly updated list of tasks on the World Bank data team's TODO list. Interested in working on them? Apply for a position here: [http://bit.ly/WorldBankData-Jobs](http://bit.ly/WorldBankData-Jobs)  
 
 ## Automate WDI data ingesting from external sources
 The [World Development Indicators](http://data.worldbank.org/products/wdi) is a curated compilation of data from multiple sources. In many cases, data are manually downloaded (as spreadsheets, csv files, databases) from other sites, transformed and loaded into our data management systems for publication. We’d like to look at automating the “download and transform” step and see if there are ways to things like [Data Packages](http://dataprotocols.org/data-packages/) for our most popular indicators.
